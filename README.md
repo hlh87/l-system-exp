@@ -1,4 +1,4 @@
-# LSystemExperiment
+# l-system-exp
 A short javafx experiment visualizing various L-systems.
 
 Click to draw, hold to keep the drawing filled with color, release to fill the drawing with white.
