@@ -3,7 +3,7 @@ A short javafx experiment visualizing various L-systems.
 
 Click to draw, hold to keep the drawing filled with color, release to fill the drawing with white.
 
-Here are some screenshots of the various L-systems:
+Here are some screenshots of the various L-systems (whose patterns were alternatively based off of Wikipedia articles and eyeballed:
 
 ![Lichtenberg Figure](/sampleImages/LSysLinden.png)
 
